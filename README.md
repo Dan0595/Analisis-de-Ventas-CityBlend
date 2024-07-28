@@ -7,7 +7,7 @@ De acuerdo con la tabla TOTAL DE INGRESOS POR MES, se puede determinar que entre
 
 ![Ventas mensuales ](https://github.com/user-attachments/assets/7edcda0f-f4f4-4ee2-9db4-2f3ef6786ab1)
 
-De acuerdo con el analisis del TOTAL de Transacciones por Categoria , el producto de mayor numero de transacciones durante los meses Enero-Junio fue el Coffee, sin embargo el producto que menor transacciones fue el Loose Tea.
+De acuerdo con el analisis del TOTAL de Transacciones por Categoria , el producto de mayor numero de transacciones durante los meses Enero-Junio fue el Coffee, sin embargo el producto que menor transacciones fue el Branded.
 
 ![Total Transacciones por Categoria ](https://github.com/user-attachments/assets/6d86dd72-a57c-4150-b102-6f9c109217e2)
 
